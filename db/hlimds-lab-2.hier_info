@@ -1,0 +1,14 @@
+|shift_reg
+in => data[0].DATAIN
+clk => data[0].CLK
+clk => data[1].CLK
+clk => data[2].CLK
+clk => data[3].CLK
+clk => data[4].CLK
+clk => data[5].CLK
+clk => data[6].CLK
+clk => data[7].CLK
+clk => out~reg0.CLK
+out << out~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

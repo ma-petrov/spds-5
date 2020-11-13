@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at vocoder.v(18): always construct contains both blocking and non-blocking assignments File: D:/Petrov-BIV174/spds-5/vocoder.v Line: 18
